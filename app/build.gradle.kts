@@ -55,7 +55,7 @@ android {
   compileSdk = Configurations.compileSdk
 
   defaultConfig {
-    applicationId = "com.skydoves.chatgpt"
+    applicationId = "com.junenine.chatgpt"
     minSdk = Configurations.minSdk
     targetSdk = Configurations.targetSdk
     versionCode = Configurations.versionCode
